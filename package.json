@@ -8,6 +8,10 @@
     "devDependencies": {
         "axios": "^1.6.1",
         "laravel-vite-plugin": "^0.8.0",
+        "rollup-plugin-includepaths": "^0.2.4",
         "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "vue-router": "^4.0.13"
     }
 }
