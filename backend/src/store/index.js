@@ -5,7 +5,8 @@ const store = createStore({
         user:{
             token:"234",
             data:{
-                id:1
+                id:1,
+                name:"gokul"
             }
         }
     },
